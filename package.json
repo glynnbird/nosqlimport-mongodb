@@ -1,0 +1,31 @@
+{
+  "name": "nosqlimport-mongodb",
+  "version": "0.1.0",
+  "description": "MongoDB CSV import module for nosqlimport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glynnbird/nosqlimport-mongodb.git"
+  },
+  "keywords": [
+    "csv",
+    "import",
+    "nosql",
+    "mongodb",
+    "json"
+  ],
+  "author": "Glynn Bird <glynn.bird@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/glynnbird/nosqlimport-mongodb/issues"
+  },
+  "homepage": "https://github.com/glynnbird/nosqlimport-mongodb#readme",
+  "dependencies": {
+    "async": "^2.0.0",
+    "debug": "^2.2.0",
+    "mongodb": "^2.2.2"
+  }
+}
