@@ -1,6 +1,6 @@
 {
   "name": "nosqlimport-mongodb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "MongoDB CSV import module for nosqlimport",
   "main": "index.js",
   "scripts": {
